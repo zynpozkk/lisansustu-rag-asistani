@@ -22,14 +22,19 @@ Lisansüstü yönetmeliği üzerine Türkçe soru-cevap yapan RAG (Retrieval-Aug
 ## 📸 Ekran Görüntüleri
 
 ### Arayüz
-![Arayüz](Ekran_görüntüsü_2026-05-09_145752.png)
+![Arayüz](Ekran%20görüntüsü%202026-05-09%20145752.png)
 
 ### Örnek Soru-Cevap
-![Soru Cevap](Ekran_görüntüsü_2026-05-09_145702.png)
+![Soru Cevap](Ekran%20görüntüsü%202026-05-09%20145702.png)
 
 ### Kaynak Gösterimi
-![Kaynak](Ekran_görüntüsü_2026-05-09_145712.png)
+![Kaynak](Ekran%20görüntüsü%202026-05-09%20145712.png)
 
+### İşlem Sırasında
+![İşlem](Ekran%20görüntüsü%202026-05-09%20145800.png)
+
+### Colab Görünümü
+![Colab](Ekran%20görüntüsü%202026-05-09%20145814.png)
 ## ⚙️ Kurulum
 
 1. Google Colab'da `rag_lisansustu.ipynb` dosyasını açın
